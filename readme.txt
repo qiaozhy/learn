@@ -5,3 +5,5 @@ GIT has a mutable index called stage.
 git aa
 iqq
 qq
+qq
+
