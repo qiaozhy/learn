@@ -1,4 +1,5 @@
 creating a new branch
+creating a new branch is quick & simple
 Git ls a distributed version control system.
 git   adas
 GIt ls free software distributed under the GPL.
